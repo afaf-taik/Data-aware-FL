@@ -1,5 +1,5 @@
 # Data-aware-FL
-This paper provides the implementation for the paper "Data-Aware Device Scheduling for Federated Edge Learning"
+This repo provides the implementation for the paper "Data-Aware Device Scheduling for Federated Edge Learning"
 
 To install the requirements 
 ```
@@ -15,7 +15,7 @@ python federated_main.py
 To run the DAS algorithm and its comparison, first create random values for the wireless environment and data distributions
 
 ```
-
+python generate_random_values.py
 ```
 
 Then run the optimization problems to select clients by running 
