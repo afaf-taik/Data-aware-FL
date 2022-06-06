@@ -1,5 +1,5 @@
 # Data-aware-FL
-This repo provides the implementation for the paper "Data-Aware Device Scheduling for Federated Edge Learning"
+This repo provides the implementation for our [paper](https://ieeexplore.ieee.org/abstract/document/9499115) "_Data-Aware Device Scheduling for Federated Edge Learning_"
 
 To install the requirements 
 ```
